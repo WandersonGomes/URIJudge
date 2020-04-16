@@ -1,5 +1,6 @@
 //PROBLEM 1761
 //link = https://www.urionlinejudge.com.br/judge/pt/problems/view/1761
+//Obs.: use a diretiva -lm
 #include <stdio.h>
 #include <math.h>
 
