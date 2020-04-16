@@ -5,7 +5,7 @@
 #define POSICAO_CARLOS 1
 
 int main() {
-    int quantidade_participantes = 0, posicao_vencedora = 1;
+    int quantidade_participantes = 0, posicao_vencedora = POSICAO_CARLOS;
     long int numero_votos = 0, votos_carlos = 0;
 
     scanf("%d", &quantidade_participantes);
