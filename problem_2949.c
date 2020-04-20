@@ -14,7 +14,7 @@ int main() {
     int hobbits = 0, humanos = 0, elfos = 0, anoes = 0, magos = 0;
     int quantidade_pessoas = 0;
     scanf("%d", &quantidade_pessoas);
-    char tmp[2], tipo;
+    char tipo;
 
     int i = 0;
     for (; i < quantidade_pessoas; i++) {
