@@ -1,6 +1,6 @@
 #PROBLEM 2396
 #link = https://www.urionlinejudge.com.br/judge/pt/problems/view/2396
-
+#PYTHON 3
 while True:
     try:
         numero_carros, numeros_voltas = input().split(" ")
