@@ -1,5 +1,5 @@
 #PROBLEM 1759
-#link = https://www.urionlinejudge.com.br/judge/pt/runs/code/18050379
+#link = https://www.urionlinejudge.com.br/judge/pt/problems/view/1759
 #PYTHON 3
 
 quantidadeHo = int(input())
