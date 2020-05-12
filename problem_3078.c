@@ -1,5 +1,5 @@
 //PROBLEM 3078
-//link = 
+//link = https://www.urionlinejudge.com.br/judge/pt/problems/view/3078
 #include <stdio.h>
 #include <math.h>
 
