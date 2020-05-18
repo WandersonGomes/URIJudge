@@ -15,7 +15,6 @@ long int fatorial(int numero) {
 
         return produto;
     }
-    return 0;
 }
 
 //PROGRAMA PRINCIPAL
