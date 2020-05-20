@@ -15,7 +15,7 @@ int colisao(int ax, int ay, int cx, int cy, int rx, int ry) {
 //PROGRAMA PRINCIPAL
 int main() {
 	int quantidade_testes = 0;
-	int i = 0, j = 0;
+	int i = 0;
 	int ax = 0, ay = 0, cx = 0, cy = 0, rx = 0, ry = 0;
 
 	scanf("%d", &quantidade_testes);
