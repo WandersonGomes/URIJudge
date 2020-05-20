@@ -42,22 +42,6 @@ int ehObtusangulo(int a, int b, int c) {
 	return 0;
 }
 
-//Obs.: A funcao nao eh utilizada na resolucao, porem fica como anotacao
-//FUNCAO QUE INFORMA SE O TRIANGULO EH ACUTANGULO (< 90)
-int ehObtusangulo(int a, int b, int c) {
-	if ((a*a) < ((b*b) + (c*c))) {
-		return 1;
-	}
-	if ((b*b) < ((a*a) + (c*c))) {
-		return 1;
-	}
-	if ((c*c) < ((b*b) + (a*a))) {
-		return 1;
-	}
-	return 0;
-}
-
-
 //PROGRAMA PRINCIPAL
 int main() {
 	int a = 0, b = 0, c = 0;
