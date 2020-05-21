@@ -10,7 +10,6 @@ long long int meu_abs(long long int numero) {
     return numero;
 }
 
-
 //PROGRAMA PRINCIPAL
 int main() {
     long long int hashmat = 0, oponente = 0;
