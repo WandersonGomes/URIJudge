@@ -1,5 +1,5 @@
 //PROBLEM 1198
-//link = 
+//link = https://www.urionlinejudge.com.br/judge/pt/problems/view/1198
 #include <stdio.h>
 
 //FUNCAO QUE RETORNA O VALOR ABSOLUTO
