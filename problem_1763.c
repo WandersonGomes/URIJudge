@@ -31,7 +31,7 @@
 #define MARROCOS "marrocos"
 #define JAPAO "japao"
 
-//QUE IMPRIME A MENSAGEM DE ACORDO COM O PAIS
+//FUNCAO QUE IMPRIME A MENSAGEM DE ACORDO COM O PAIS
 void mensagem(char pais[MAX]) {
     if (strcmp(pais,JAPAO) == 0) {
         printf("Merii Kurisumasu!\n");
