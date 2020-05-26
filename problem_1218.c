@@ -1,3 +1,5 @@
+//PROBLEM 1218
+//link = https://www.urionlinejudge.com.br/judge/pt/problems/view/1218
 #include <stdio.h>
 
 //FUNCAO QUE CONVERTE ALGARISMO PARA SER RESPECTIVO NUMERO
