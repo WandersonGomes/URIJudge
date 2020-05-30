@@ -18,6 +18,5 @@ int main() {
 
     printf("%.0lf\n", pow(4.00,expoente));
 
-
     return 0;
 }
