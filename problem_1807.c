@@ -9,6 +9,7 @@
 //FUNCAO QUE CALCULA UM NUMERO ELEVADO A OUTRO USANDO RECURSIVIDADE
 long long int my_exp(long long int base, long long int expoente) {
     long long int resultado = 0;
+    
     if (expoente == 0) {
         resultado = 1;
     } else if (expoente == 1) {
@@ -18,13 +19,13 @@ long long int my_exp(long long int base, long long int expoente) {
     } else {
         resultado = (base * my_exp((base*base)%MODULO, expoente/2));
     }
-    
+
     return resultado%MODULO;
 }
 
 //PROGRAMA PRINCIPAL
 int main() {
-    long long int resultado = 1, i = 0, linha = 0;
+    long long int resultado = 0, i = 0, linha = 0;
 
     scanf("%lld", &linha);
 
