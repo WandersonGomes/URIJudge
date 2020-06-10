@@ -1,5 +1,7 @@
 //PROBLEM 1063
 //link = https://www.urionlinejudge.com.br/judge/pt/problems/view/1063
+//Obs.:
+//https://www.life2coding.com/uri-online-judge-solution-1063-rails-again-tracing-movements-intermediate-problem/
 #include <stdio.h>
 
 #define MAX 1000
