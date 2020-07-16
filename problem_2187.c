@@ -8,11 +8,6 @@ int main() {
     int cedula_50 = 0, cedula_10 = 0, cedula_5 = 0, cedula_1 = 0;
 
     while (1) {
-        cedula_50 = 0;
-        cedula_10 = 0;
-        cedula_5 = 0;
-        cedula_1 = 0;
-
         scanf("%ld", &numero);
         if (numero == 0) {
             break;
