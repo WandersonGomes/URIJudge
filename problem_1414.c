@@ -1,4 +1,4 @@
-//PROBLEM 1371
+//PROBLEM 1414
 //link = https://www.urionlinejudge.com.br/judge/pt/problems/view/1414
 #include <stdio.h>
 
