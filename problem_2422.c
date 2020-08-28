@@ -7,6 +7,7 @@
 //REALIZA A BUSCA DOS VALORES
 int buscaBinaria(long long int casas[MAX], long int inicio, long int fim, long long int valor) {
    long int meio = 0;
+   
    if (inicio < fim) {
       meio = (inicio + fim)/2;
 
