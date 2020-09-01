@@ -1,3 +1,5 @@
+//PROBLEM 3134
+//link = https://www.urionlinejudge.com.br/judge/pt/problems/view/3134
 #include <stdio.h>
 
 //FUNCAO QUE INFORMA SE EH POSSIVEL COLOCAR OS PESOS NA BALANCA
