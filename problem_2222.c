@@ -2,7 +2,6 @@
 //link = https://www.urionlinejudge.com.br/judge/pt/problems/view/2222
 #include <stdio.h>
 #include <string.h>
-#include <math.h>
 
 #define MAX 10001
 
