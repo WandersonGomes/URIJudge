@@ -2,7 +2,7 @@
 //link = https://www.urionlinejudge.com.br/judge/pt/problems/view/3137
 /*
 Obs.:
-Para um maior entendimento por favor veja esta video aula (ingles):
+Para um maior entendimento por favor veja este video aula (ingles):
 https://youtu.be/OG0h5xD_f9Y
 */
 #include <stdio.h>
