@@ -1,7 +1,6 @@
 //PROBLEM 2472
 //link = https://www.beecrowd.com.br/judge/pt/problems/view/2472
 #include <stdio.h>
-#include <stdlib.h>
 
 //FUNCOES
 long long potencia2(long long numero) {
