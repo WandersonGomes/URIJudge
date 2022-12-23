@@ -1,5 +1,5 @@
 //PROBLEM 1048
-//link = 
+//link = https://www.beecrowd.com.br/judge/pt/problems/view/1048
 #include <stdio.h>
 
 //FUNCOES
